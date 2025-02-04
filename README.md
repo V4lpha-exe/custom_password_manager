@@ -33,16 +33,8 @@ Check if the packages are installed:
 pip show PyQt5 cryptography
 If information about the packages is displayed, the installation is successful.
 
-# Step 3: Download the Script from GitHub
-Go to the GitHub Repository:
+# Step 3: Download the Script
 
-If the script is hosted on GitHub, go to the repository (e.g., https://github.com/your-username/your-repository).
-
-Download the Script:
-
-Click the "Code" button and select "Download ZIP".
-
-Extract the ZIP file to your desired location (e.g., C:\PasswordManager).
 # Step 4: Run the Script
 Open Command Prompt:
 
