@@ -10,7 +10,9 @@ Download the latest version of Python for Windows (make sure to check the box "A
 Verify Installation:
 
 Open Command Prompt (CMD) and type:
+
 python --version
+
 If the Python version is displayed (e.g., Python 3.11.5), the installation is successful.
 
 
