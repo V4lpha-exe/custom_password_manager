@@ -60,7 +60,7 @@ Run the following Python code to generate a valid key:
 
 from cryptography.fernet import Fernet
 
-# Generate a new Fernet key
+ Generate a new Fernet key
 key = Fernet.generate_key()
 print(key.decode())  # Decode to a string for use in your script
 
