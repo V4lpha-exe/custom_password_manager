@@ -1,6 +1,6 @@
 # custom_password_manager
  Free Custom Python Password Manager
-Step 1: Install Python
+# Step 1: Install Python
 Download Python:
 
 Go to the official Python website.
@@ -16,7 +16,7 @@ python --version
 If the Python version is displayed (e.g., Python 3.11.5), the installation is successful.
 
 
-Step 2: Install Required Python Packages
+# Step 2: Install Required Python Packages
 The script uses the following Python packages:
 
 PyQt5 (for the graphical interface)
@@ -33,7 +33,7 @@ Check if the packages are installed:
 pip show PyQt5 cryptography
 If information about the packages is displayed, the installation is successful.
 
-Step 3: Download the Script from GitHub
+# Step 3: Download the Script from GitHub
 Go to the GitHub Repository:
 
 If the script is hosted on GitHub, go to the repository (e.g., https://github.com/your-username/your-repository).
